@@ -54,7 +54,7 @@
     "eslint": "^4.13.1",
     "fetch-mock": "^7.3.3",
     "git-cz": "^4.7.1",
-    "jest": "^23.6.0",
+    "jest": "^29.3.1",
     "node-fetch": "^2.2.1",
     "prettier": "^1.9.2",
     "prosemirror-example-setup": "^1.1.2",
